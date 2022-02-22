@@ -8,10 +8,10 @@ The customer should be allocated a parking slot which is nearest to the entry. A
 We interact with the system via a simple set of commands which produce a specific output. Please take a look at the example below, which includes all the commands you need to support - they're self explanatory.
 
 # commands for the execution
-$ create_parking_lot
-$ park_vehicle
-$ unpark_vehicle
-$ show_empty_slots
+create_parking_lot,
+park_vehicle,
+unpark_vehicle,
+show_empty_slots
 
 # Interactive Example
 ```
